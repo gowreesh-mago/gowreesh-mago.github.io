@@ -6,11 +6,6 @@
 </ul>
 
 
-<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
-<ul style="margin:0 0 20px;">
-  <li><autocolor>Deep Learning, Fall 2024</autocolor></li>
-</ul>
-
 
 <h4 style="margin:0 10px 0;">Organizing Committee</h4>
 <ul style="margin:0 0 20px;">
