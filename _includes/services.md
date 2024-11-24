@@ -1,11 +1,14 @@
 ## Services
-
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
 <ul style="margin:0 0 20px;">
-  <li><a href="https://link.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><autocolor><a href="https://uvadlc.github.io/">Deep Learning 1</a></autocolor></li>
 </ul>
 
 
+<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<ul style="margin:0 0 20px;">
+  <li><autocolor><a href="https://link.springer.com/journal/11263">International Journal of Computer Vision (IJCV)</a></autocolor></li>
+</ul>
 
 <h4 style="margin:0 10px 0;">Organizing Committee</h4>
 <ul style="margin:0 0 20px;">
