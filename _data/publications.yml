@@ -7,3 +7,10 @@ main:
     pdf: https://openreview.net/pdf?id=6dS1jhdemD
     code: https://github.com/nyunAI/PatchGD
     image: ./assets/img/pgd.png
+
+  - title: "HierVision: Standardized and Reproducible Hierarchical Sources for Vision Datasets"
+    authors: Tejaswi Kasarla, Ruthu Hulikal Rooparaghunath, Stefano D'Arrigo, <strong>Gowreesh Mago</strong>, Abhishek Jha, Melika Ayoughi, Swasti Shreya Mishra, Ana Manzano Rodríguez, Teng Long, Mina Ghadimi Atigh, Max van Spengler, Pascal Mettes
+    conference_short: BEW@ICCV'25
+    conference: International Conference on Computer Vision (ICCV) Beyond Euclidean Workshop <strong>(BEW)</strong>, 2025.
+    pdf: https://openreview.net/pdf?id=deDq9Te0lT
+    image: ./assets/img/hiervision.png
