@@ -14,3 +14,9 @@ main:
     conference: International Conference on Computer Vision (ICCV) Beyond Euclidean Workshop <strong>(BEW)</strong>, 2025.
     pdf: https://openreview.net/pdf?id=deDq9Te0lT
     image: ./assets/img/hiervision.png
+
+  - title: "Looking Beyond the Obvious: A Survey on Abstract Concept Recognition for Video Understanding"
+    authors: <strong>Gowreesh Mago</strong>, Pascal Mettes, Stevan Rudinac
+    conference: arXiv
+    pdf: https://www.arxiv.org/pdf/2508.20765
+    image: ./assets/img/topics.png
