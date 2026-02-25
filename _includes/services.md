@@ -7,6 +7,7 @@
 
 <h4 style="margin:0 10px 0;">Reviews</h4>
 <ul style="margin:0 0 20px;">
+  <li><autocolor><a href="https://www.nldl.org/home">NLDL 2026</a></autocolor></li>
   <li><autocolor><a href="https://link.springer.com/journal/11263">International Journal of Computer Vision (IJCV)</a></autocolor></li>
   <li><autocolor><a href="https://sites.google.com/view/beyondeuclidean/home">Beyond Euclidean @ ICCVw 2025</a></autocolor></li>
 </ul>

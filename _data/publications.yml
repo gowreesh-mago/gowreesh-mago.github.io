@@ -1,5 +1,12 @@
 main:
 
+  - title: "Looking Beyond the Obvious: A Survey on Abstract Concept Recognition for Video Understanding"
+    authors: <strong>Gowreesh Mago</strong>, Pascal Mettes, Stevan Rudinac
+    conference: IJCV, 2026
+    conference_short: IJCV
+    pdf: https://www.arxiv.org/pdf/2508.20765
+    image: ./assets/img/topics.png
+
   - title: Pushing the Limits of Gradient Descent for Efficient Learning on Large Images
     authors: Deepak Gupta, <strong>Gowreesh Mago</strong>, Arnav Chavan, Dilip Prasad, Rajat Mani Thomas
     conference_short: TMLR
@@ -15,8 +22,4 @@ main:
     pdf: https://openreview.net/pdf?id=deDq9Te0lT
     image: ./assets/img/hiervision.png
 
-  - title: "Looking Beyond the Obvious: A Survey on Abstract Concept Recognition for Video Understanding"
-    authors: <strong>Gowreesh Mago</strong>, Pascal Mettes, Stevan Rudinac
-    conference: arXiv
-    pdf: https://www.arxiv.org/pdf/2508.20765
-    image: ./assets/img/topics.png
+  
