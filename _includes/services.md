@@ -1,7 +1,8 @@
 ## Services
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>
 <ul style="margin:0 0 20px;">
-  <li><autocolor><a href="https://uvadlc.github.io/">Deep Learning 1</a></autocolor></li>
+  <li><autocolor><a href="https://uvadlc.github.io/">Deep Learning 1 (2024, 2025)</a></autocolor></li>
+  <li><autocolor><a href="https://uvafomo.github.io/">Foundation Models (2026)</a></autocolor></li>
 </ul>
 
 
