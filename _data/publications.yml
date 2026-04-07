@@ -4,7 +4,7 @@ main:
     authors: <strong>Gowreesh Mago</strong>, Pascal Mettes, Stevan Rudinac
     conference: IJCV, 2026
     conference_short: IJCV
-    pdf: https://www.arxiv.org/pdf/2508.20765
+    pdf: https://link.springer.com/article/10.1007/s11263-026-02784-5
     image: ./assets/img/topics.png
 
   - title: Pushing the Limits of Gradient Descent for Efficient Learning on Large Images
