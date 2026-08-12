@@ -13,6 +13,7 @@ I am a Ph.D. student at <a href="https://dsc.uva.nl/programmes/interdisciplinary
 - **Machine Learning:** Efficient Machine Learning, Hyperbolic Deep Learning
 
 ## News 🔥
+- **[Aug 2026]** LoViT accepted at BEW@ECCV'26
 - **[Feb 2026]** Our Survey on Abstract Concept Understanding in Videos has been accepted in IJCV.
 - **[July 2025]** Hiervision accepted in BEW@ICCV'25
 - **[Sept. 2024]** PatchGD accepted in TMLR.
